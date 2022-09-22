@@ -1,5 +1,4 @@
-# DAW project 2021/V
+# Project Management Application
 
-- [Hugo Dias](https://github.com/GenericDrugs) nº 46022
-- [João Martins](https://github.com/BinaryEnigma01) nº 46055
-- [Miguel Dourado](https://github.com/miguelbdourado) nº 46063 
+This repository contains an HTTP-based API in the src folder and a browser-based client application on the daw-react folder.
+
